@@ -36,7 +36,7 @@ const NuevoProyecto = () => {
 
     //mostrar formulario
     const onClickFormulario = () => {
-        mostrarFormulario()
+        mostrarFormulario();
     }
 
     return (
